@@ -4,11 +4,12 @@
   "description": "Day 2 Assignment",
   "main": "index.js",
   "scripts": {
-  "test": "echo \"test passed\""
-}
-
+    "test": "echo \"test passed\""
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
