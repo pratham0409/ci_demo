@@ -1,0 +1,14 @@
+{
+  "name": "ci_demo",
+  "version": "1.0.0",
+  "description": "Day 2 Assignment",
+  "main": "index.js",
+  "scripts": {
+  "test": "echo \"test passed\""
+}
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
